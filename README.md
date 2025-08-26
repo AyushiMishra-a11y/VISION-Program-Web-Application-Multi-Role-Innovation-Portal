@@ -50,4 +50,20 @@ flowchart LR
     B --> C[Sponsors Commit]
     C --> D[Mentors Guide Students]
 
-'''
+
+
+```markdown
+## 🖼 Screenshots
+
+**Homepage**  
+![Homepage](assets/Home.png)
+
+**Panels Overview**  
+![Panels](assets/Pannels.png)
+
+**Live Enrollment**  
+![Live Enrollment](assets/Apply.png)
+
+**Login with CAPTCHA**  
+![Login](assets/Login.png)
+
