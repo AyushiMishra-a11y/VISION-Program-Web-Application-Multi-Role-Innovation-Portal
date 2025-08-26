@@ -44,11 +44,13 @@ Check out the live portal here: [www.viksitbharatinnovation.com](https://www.vik
 ---
 
 ## 📊 Workflow Diagram
+
 ```mermaid
 flowchart LR
     A[🎓 Student Submission] --> B[📝 Selectors Review]
     B --> C[💰 Sponsors Commit]
     C --> D[👨‍🏫 Mentors Guide Students]
+
 🖼 Screenshots
 [Homepage](assets/Home.png)
 
