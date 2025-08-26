@@ -50,20 +50,13 @@ flowchart LR
     B --> C[💰 Sponsors Commit]
     C --> D[👨‍🏫 Mentors Guide Students]
 🖼 Screenshots
+[Homepage](assets/Home.png)
 
+[Pannels](assets/Pannels.png)
 
+[Live Enrollment](assets/Apply.png)
 
-🎓 Students Panel
-
-
-📝 Selectors Panel
-
-
-💰 Sponsors Panel
-
-
-👨‍🏫 Mentors Panel
-
+[Login with CAPTCHA](assets/Login.png)
 
 📄 My Contributions
 
