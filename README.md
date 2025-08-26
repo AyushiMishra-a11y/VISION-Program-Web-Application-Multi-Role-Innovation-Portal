@@ -50,9 +50,7 @@ flowchart LR
     B --> C[Sponsors Commit]
     C --> D[Mentors Guide Students]
 
-
-
-```markdown
+ ```
 ## 🖼 Screenshots
 
 **Homepage**  
