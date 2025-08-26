@@ -54,14 +54,30 @@ flowchart LR
 ## 🖼 Screenshots
 
 **Homepage**  
+
 ![Homepage](assets/Home.png)
 
 **Panels Overview**  
+
 ![Panels](assets/Pannels.png)
 
-**Live Enrollment**  
+**Live Enrollment** 
+
 ![Live Enrollment](assets/Apply.png)
 
 **Login with CAPTCHA**  
+
 ![Login](assets/Login.png)
+
+## 📄 My Contributions
+- Designed and implemented multi-role backend architecture
+- Developed student project submission workflows
+- Implemented role-based authentication and CAPTCHA security
+- Integrated project progression workflow: submission → selection → sponsorship → mentorship
+- Ensured responsive design and seamless panel linking
+- Deployed live portal and tested real-time workflow
+
+## 📢 Notes
+This repository is for documentation purposes only.  
+Source code is not public due to project confidentiality, but this case study highlights my role in building a live, production-ready multi-role innovation portal.
 
